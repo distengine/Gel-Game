@@ -3,3 +3,7 @@
 ################################################################################
 
 /x64/Debug/Gel Game.tlog
+/x64/Debug/World Editor.tlog
+/x64/Debug
+*.vcxproj
+*.filters
